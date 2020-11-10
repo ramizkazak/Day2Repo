@@ -1,1 +1,12 @@
 Hello World
+if you have issue seeing your userr name
+fallow this steps
+1. open new atom window
+2. click ok github tab on right bottom
+3. click clone repository
+-- copy url of any public repo and click clone
+1. now the login button will show up
+2. get your token by following the link
+3. paste your token in
+4. now login successful
+5. go back to previous window and publish your repository
